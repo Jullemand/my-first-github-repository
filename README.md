@@ -1,2 +1,2 @@
 # my-first-github-repository
-This line was modified manually during conflict
+This line was modified manually during conflict. And again
